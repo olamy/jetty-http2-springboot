@@ -1,13 +1,13 @@
-package com.example.demo;
+package org.mortbay.jetty.http2.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SoSimpleApplication
+public class SimpleApplication
 {
     public static void main( String[] args )
     {
-        SpringApplication.run( SoSimpleApplication.class, args );
+        SpringApplication.run( SimpleApplication.class, args );
     }
 }
