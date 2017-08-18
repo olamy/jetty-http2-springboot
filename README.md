@@ -1,4 +1,4 @@
-###To run the sample http2:
+### To run the sample http2:
 
 ```
 wget http://repo.maven.apache.org/maven2/org/mortbay/jetty/alpn/jetty-alpn-agent/2.0.6/jetty-alpn-agent-2.0.6.jar
